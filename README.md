@@ -1,10 +1,10 @@
 # Walmart Sales Data Analysis - SQL
-Exploratory Data Analysis of Walmart sales data to understand sales trends, product performance, and customer behavior patterns. 
+Exploratory Data Analysis of Walmart sales data to understand sales trends, product performance, and customer behaviour patterns. 
 
-#### DATA SOURCE
+## DATA SOURCE
 [Kaggle.com](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting)
 
-#### PROJECT AIM
+## PROJECT AIM
 The project aims to gain valuable insight into the sales data of Walmart to understand the different factors that affect sales of the different branches in specific cities. 
 
 ## SCHEMAS
